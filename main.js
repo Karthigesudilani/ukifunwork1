@@ -53,7 +53,7 @@ SC.stream('/tracks/181294675', function(sound) {
 
 
 
-SC.stream('/tracks/233953691', function(sound) {
+SC.stream('/tracks/248457641', function(sound) {
   $('#start5').click(function(e) {
     e.preventDefault();
     sound.start();
@@ -65,7 +65,7 @@ SC.stream('/tracks/233953691', function(sound) {
 });
 
 
-SC.stream('/tracks/190382052', function(sound) {
+SC.stream('/tracks/212489871', function(sound) {
   $('#start6').click(function(e) {
     e.preventDefault();
     sound.start();
@@ -89,7 +89,7 @@ SC.stream('/tracks/31404305', function(sound) {
 });
 
 
-SC.stream('/tracks/104254646', function(sound) {
+SC.stream('/tracks/212489871', function(sound) {
   $('#start8').click(function(e) {
     e.preventDefault();
     sound.start();
